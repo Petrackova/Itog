@@ -1,5 +1,5 @@
-﻿int lenght = 4;
-Console.WriteLine("Введите массив содержащий 4 элемента через ENTER:");
+﻿Console.WriteLine("Введите массив содержащий 4 элемента через ENTER:");
+int lenght = 4;
 string[] result = new string[lenght];
 string[] newarr = new string[lenght];
 for (int i = 0; i < lenght; i++)
